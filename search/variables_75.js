@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['ulonglong_5fvalue',['ulonglong_value',['../classset__var.html#a17e98a0d6265ac6fb52bfa48f656947e',1,'set_var']]],
+  ['union_5fpart',['union_part',['../classJOIN.html#a1e9b5032ce978d9ebe02072267e26a9a',1,'JOIN']]],
+  ['unit',['unit',['../classJOIN.html#aaf0707e5829e786c1080e3d2b3262835',1,'JOIN']]],
+  ['unsupported_5freason',['unsupported_reason',['../classAlter__inplace__info.html#a13eca57ab999f94ec5bf6b3c242cbb17',1,'Alter_inplace_info']]],
+  ['until_5fsql_5fgtids',['until_sql_gtids',['../classRelay__log__info.html#a2f838f8d82a97c44226b63f35862616a',1,'Relay_log_info']]],
+  ['unused_5fkey_5fparts',['unused_key_parts',['../structst__key.html#a752659925a2775974f1e6c7c558c1cbc',1,'st_key']]],
+  ['update_5fvalues',['update_values',['../classCOPY__INFO.html#a451057d07720b1c973ac2881c8939406',1,'COPY_INFO']]],
+  ['updated',['updated',['../classCOPY__INFO_1_1Statistics.html#aff87e80b064736d9fa489403a5416e85',1,'COPY_INFO::Statistics']]],
+  ['usable_5fkey_5fparts',['usable_key_parts',['../structst__key.html#ac733c94b20da4e1547c0845b482d4a7a',1,'st_key']]],
+  ['use_5findex_5fstatistics',['use_index_statistics',['../classRANGE__OPT__PARAM.html#a4849251021b18cc47419b75aa454eda9',1,'RANGE_OPT_PARAM']]],
+  ['use_5fjoin_5fcache',['use_join_cache',['../structst__join__table.html#ac402f0e7de1bee9b2d2039ec5fd924dd',1,'st_join_table']]],
+  ['used_5falias',['used_alias',['../structst__order.html#a450b9735d629184c9f33b86d7a42749c',1,'st_order']]],
+  ['used_5ftables',['used_tables',['../classKey__use.html#ae721ddf71a4c36bc05cc9110b4bb8165',1,'Key_use']]],
+  ['used_5ftables_5fcache',['used_tables_cache',['../classItem__func.html#a663d83299b42a9afbc090dc9286d2603',1,'Item_func']]],
+  ['user_5fdefined_5fkey_5fparts',['user_defined_key_parts',['../structst__key.html#abd3126670f8060d4d3c29a1637836ac3',1,'st_key']]],
+  ['using_5fpq',['using_pq',['../classFilesort.html#a4a5d09c1f56508024a7182dd84fd258d',1,'Filesort']]]
+];
